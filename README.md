@@ -25,8 +25,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="assignment2new.gif" width=250><br>
 
 ### Notes
-
-Describe any challenges encountered while building the app.
 Youtube player was not initializing so I had to go into build.gradle and change the compileSdkVersion and targetSdkVersion to 29
 
 ## Open-source libraries used
